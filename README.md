@@ -44,5 +44,9 @@
 22) null값을 처리하는 방법? 동일한지를 확인하는 방법?<br/>
 
 <h4>2022-01-25 <br/></h4>
-21) 함수의 argument를 다루는 방법과 infix함수<br/>
-22) 중첩클래스와 내부 클래스<br/>
+23) 함수의 argument를 다루는 방법과 infix함수<br/>
+24) 중첩클래스와 내부 클래스<br/>
+
+<h4>2022-01-26 <br/></h4>
+25) Data Class와 Enum Class<br/>
+26) Set과 Map<br/>
